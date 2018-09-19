@@ -73,9 +73,9 @@ author:
 social-network-links:
   rss: true
   email: "james@garside.tech"
-  facebook: daattali
-  github: https://github.com/jamesjoaquin
-  twitter: daattali
+# facebook: daattali
+  github: jamesjoaquin
+# twitter: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
@@ -93,7 +93,7 @@ social-network-links:
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   google: false
   linkedin: true
 
@@ -145,7 +145,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "America/Denver"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
